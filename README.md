@@ -7,7 +7,7 @@ Built by **Miller Hughes** while studying EDHEC's *Python for Investment Managem
 It deliberately sticks to `pandas`, `numpy`, `scipy` and `matplotlib` (plus Streamlit/Plotly for the app) so that every
 line can be explained.
 
-**Live app:** _coming soon_
+**Live app:** https://portfolio-risk-review.streamlit.app/ (change the weights, start year and risk-free rate)
 
 ![Report](report.png)
 
